@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ggLQyBuaeUy8ejsHZgKhyAnDS5KH9oanJa89QK5q9LH8VE3bKeahCjLkQcUhAU1EhwexwqNVi7su93YN7tGaPQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user\\Desktop\\AlOqlah\\Project\\ASAS Program\\SearchTextBoxWpf\\Desmo\\Demo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.39\\microsoft.xaml.behaviors.wpf.1.1.39.nupkg.sha512"
+  ],
+  "logs": []
+}

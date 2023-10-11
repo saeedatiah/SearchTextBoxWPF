@@ -1,0 +1,17 @@
+C:\Users\user\Desktop\AlOqlah\Project\ASAS Program\SearchTextBoxWpf\Controls\bin\Debug\net6.0-windows\Controls.deps.json
+C:\Users\user\Desktop\AlOqlah\Project\ASAS Program\SearchTextBoxWpf\Controls\bin\Debug\net6.0-windows\Controls.dll
+C:\Users\user\Desktop\AlOqlah\Project\ASAS Program\SearchTextBoxWpf\Controls\bin\Debug\net6.0-windows\Controls.pdb
+C:\Users\user\Desktop\AlOqlah\Project\ASAS Program\SearchTextBoxWpf\Controls\obj\Debug\net6.0-windows\Controls.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\AlOqlah\Project\ASAS Program\SearchTextBoxWpf\Controls\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\user\Desktop\AlOqlah\Project\ASAS Program\SearchTextBoxWpf\Controls\obj\Debug\net6.0-windows\Controls_MarkupCompile.cache
+C:\Users\user\Desktop\AlOqlah\Project\ASAS Program\SearchTextBoxWpf\Controls\obj\Debug\net6.0-windows\Controls_MarkupCompile.lref
+C:\Users\user\Desktop\AlOqlah\Project\ASAS Program\SearchTextBoxWpf\Controls\obj\Debug\net6.0-windows\Themes\SearchTextBox.baml
+C:\Users\user\Desktop\AlOqlah\Project\ASAS Program\SearchTextBoxWpf\Controls\obj\Debug\net6.0-windows\Controls.g.resources
+C:\Users\user\Desktop\AlOqlah\Project\ASAS Program\SearchTextBoxWpf\Controls\obj\Debug\net6.0-windows\Controls.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\AlOqlah\Project\ASAS Program\SearchTextBoxWpf\Controls\obj\Debug\net6.0-windows\Controls.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\AlOqlah\Project\ASAS Program\SearchTextBoxWpf\Controls\obj\Debug\net6.0-windows\Controls.AssemblyInfo.cs
+C:\Users\user\Desktop\AlOqlah\Project\ASAS Program\SearchTextBoxWpf\Controls\obj\Debug\net6.0-windows\Controls.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\AlOqlah\Project\ASAS Program\SearchTextBoxWpf\Controls\obj\Debug\net6.0-windows\Controls.dll
+C:\Users\user\Desktop\AlOqlah\Project\ASAS Program\SearchTextBoxWpf\Controls\obj\Debug\net6.0-windows\refint\Controls.dll
+C:\Users\user\Desktop\AlOqlah\Project\ASAS Program\SearchTextBoxWpf\Controls\obj\Debug\net6.0-windows\Controls.pdb
+C:\Users\user\Desktop\AlOqlah\Project\ASAS Program\SearchTextBoxWpf\Controls\obj\Debug\net6.0-windows\ref\Controls.dll
